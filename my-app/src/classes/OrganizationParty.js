@@ -1,6 +1,5 @@
 export default class OrganizationParty{
     #groupData
-    #personData
     #colors
     #existingGroups 
     #numberExistingGroup
@@ -27,7 +26,8 @@ export default class OrganizationParty{
         this.#finalGroup = this.createFinalFormat(this.#finalGroup, this.#colors)
     }
     
-    /*
+    /* 
+    metod using node.js
     #fetchData(){
         const fs = require('fs');
         let rawdata = fs.readFileSync('data.json');
@@ -103,17 +103,17 @@ export default class OrganizationParty{
         return finalFormat;
     }
 
+    /*
+    This function was never used, it is intended to obtain information from each person to render in another way
     getInformationEachPerson(group){
                 // grupos: [[1,2,3],[4,5,6]]
         // colores: ["rojo", "Azul", "blanco"]
         
         // "ROJO": [1,2,3,4]
          //   "Azul":[2,3,4]
-        /*
         abel: {
             color : red,
             group: ["Yasiris", "Sterber"]
-        }*/
 
         let informationEachPerson = [];
         for (const [color, persons] of Object.entries(this.#finalGroup)) {
@@ -133,6 +133,7 @@ export default class OrganizationParty{
             t.name === value.name
         )));
     }
+    */
 
     getGroupData(){
         return this.#groupData;

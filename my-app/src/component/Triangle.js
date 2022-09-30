@@ -12,7 +12,6 @@ export default function Triangle(){
     </div>
    </div>
    <div className="bgimage">
-
    </div>
   </ div>
  );
