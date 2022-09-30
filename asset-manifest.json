@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/improved-fiesta/static/css/main.073c9b0a.css",
-    "main.js": "/improved-fiesta/static/js/main.d8b7e798.js",
+    "main.css": "/improved-fiesta/static/css/main.bcb5bf79.css",
+    "main.js": "/improved-fiesta/static/js/main.679e500d.js",
     "static/js/787.28cb0dcd.chunk.js": "/improved-fiesta/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/improved-fiesta/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/improved-fiesta/index.html",
-    "main.073c9b0a.css.map": "/improved-fiesta/static/css/main.073c9b0a.css.map",
-    "main.d8b7e798.js.map": "/improved-fiesta/static/js/main.d8b7e798.js.map",
+    "main.bcb5bf79.css.map": "/improved-fiesta/static/css/main.bcb5bf79.css.map",
+    "main.679e500d.js.map": "/improved-fiesta/static/js/main.679e500d.js.map",
     "787.28cb0dcd.chunk.js.map": "/improved-fiesta/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d8b7e798.js"
+    "static/css/main.bcb5bf79.css",
+    "static/js/main.679e500d.js"
   ]
 }
