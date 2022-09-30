@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/improved-fiesta/static/css/main.f4ee7bac.css",
-    "main.js": "/improved-fiesta/static/js/main.53db1c64.js",
+    "main.js": "/improved-fiesta/static/js/main.1f65d561.js",
     "static/js/787.28cb0dcd.chunk.js": "/improved-fiesta/static/js/787.28cb0dcd.chunk.js",
     "static/media/back.jpg": "/improved-fiesta/static/media/back.b1e7e0142ec86e994faa.jpg",
     "static/media/heart.gif": "/improved-fiesta/static/media/heart.0dfc813f7e6f78c786b6.gif",
     "index.html": "/improved-fiesta/index.html",
     "main.f4ee7bac.css.map": "/improved-fiesta/static/css/main.f4ee7bac.css.map",
-    "main.53db1c64.js.map": "/improved-fiesta/static/js/main.53db1c64.js.map",
+    "main.1f65d561.js.map": "/improved-fiesta/static/js/main.1f65d561.js.map",
     "787.28cb0dcd.chunk.js.map": "/improved-fiesta/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4ee7bac.css",
-    "static/js/main.53db1c64.js"
+    "static/js/main.1f65d561.js"
   ]
 }
