@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/improved-fiesta/static/css/main.cb9572d1.css",
-    "main.js": "/improved-fiesta/static/js/main.7adb7599.js",
+    "main.js": "/improved-fiesta/static/js/main.b11cb046.js",
     "static/media/back.jpg": "/improved-fiesta/static/media/back.b1e7e0142ec86e994faa.jpg",
     "static/media/heart.gif": "/improved-fiesta/static/media/heart.0dfc813f7e6f78c786b6.gif",
     "index.html": "/improved-fiesta/index.html",
     "main.cb9572d1.css.map": "/improved-fiesta/static/css/main.cb9572d1.css.map",
-    "main.7adb7599.js.map": "/improved-fiesta/static/js/main.7adb7599.js.map"
+    "main.b11cb046.js.map": "/improved-fiesta/static/js/main.b11cb046.js.map"
   },
   "entrypoints": [
     "static/css/main.cb9572d1.css",
-    "static/js/main.7adb7599.js"
+    "static/js/main.b11cb046.js"
   ]
 }
